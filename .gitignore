@@ -1,0 +1,14 @@
+*.o
+*.exe
+*.gch
+*.output
+*.result
+Score.txt
+testlib
+myshell
+stockserver
+stockclient
+multiclient
+mdriver
+.vscode/
+.DS_Store
